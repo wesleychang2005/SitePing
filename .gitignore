@@ -12,3 +12,5 @@ coverage/
 .claude/worktrees/
 coverage-report/
 .source/
+server/node_modules
+server/public
